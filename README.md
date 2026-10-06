@@ -14,6 +14,8 @@ Goal: **8 kyu → 1 kyu**
 
 ## Structure
 
+Solve → Check solutions → Ахуеть → Learn → Repeat
+
 ```text
 codewars-typescript/
 ├── 8-kyu/
